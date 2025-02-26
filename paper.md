@@ -81,7 +81,6 @@ affiliations:
  - name: National Agriculture and Food Research Organization(NARO), Research Center for Agricultural Information Technology (RCAIT), Tsukuba, Japan
    index: 15
 
- 
 
 date: 15 November 2024
 cito-bibliography: paper.bib
@@ -89,6 +88,8 @@ authors_short: Pommier et al. (2024) BioHackrXiv  template
 group: BioHackrXiv
 event: BioHackathon LLM Versailles 2024
 biohackathon_name: "BioHackathon LLM Versailles 2024"
+biohackathon_url:   ""
+biohackathon_location: "Versailles, France, 2024"
 git_url: https://github.com/gnpis/2024-biohackathon-LLM
 ---
 
