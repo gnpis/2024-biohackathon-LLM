@@ -1,9 +1,4 @@
 ---
-title: Introduction or Background
-
----
-
----
 title: 'Report: Workshop on connecting Knowledge Graphs with BioChatter'
 tags:
   - Knowlegde Graph
