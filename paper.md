@@ -16,7 +16,7 @@ tags:
 authors:
   - name: Cyril Pommier
     orcid: 0000-0002-9040-8733
-    affiliation: 5, 6
+    affiliation: 5
   - name: Sebastian Beier
     orcid: 0000-0002-2177-8781
     affiliation: 2
@@ -34,10 +34,10 @@ authors:
     affiliation: 4
   - name: Bruno Costa
     orcid: 0000-0002-3794-4262
-    affiliation: 6, 7 
+    affiliation: 7 
   - name: Raphaël Flores
     orcid: 0000-0002-0278-5441
-    affiliation: 5, 6
+    affiliation: 5
   - name: Helene Rimbert
     orcid: 0000-0002-2288-6864
     affiliation: 3, 10
@@ -63,10 +63,8 @@ affiliations:
    index: 3
  - name: National Agriculture and Food Research Organization(NARO), Institute of Crop Science(NICS), Tsukuba, Japan
    index: 4
- - name: Université Paris-Saclay, INRAE, URGI, Versailles, France
+ - name: Université Paris-Saclay, INRAE, BioinfOmics, URGI, 78026, Versailles, France
    index: 5
- - name: Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
-   index: 6
  - name: Instituto de Engenharia de Sistemas e Computadores - Investigação e desenvolvimento (INESC-ID), Rua Alves Redol nº9, 1000-29 Lisboa 
    index: 7
  - name: BioISI, Faculdade de Ciências - Universidade de Lisboa (FCUL), Campo Grande 016, 1749-016 Lisboa
@@ -91,11 +89,12 @@ affiliations:
  
 
 date: 15 November 2024
-bibliography: paper.bib
+cito-bibliography: paper.bib
 authors_short: Pommier et al. (2024) BioHackrXiv  template
 group: BioHackrXiv
 event: BioHackathon LLM Versailles 2024
-biohackathon_name: BioHackathon LLM Versailles 2024
+biohackathon_name: "BioHackathon LLM Versailles 2024"
+git_url: https://github.com/gnpis/2024-biohackathon-LLM
 ---
 
 # Background
@@ -566,7 +565,7 @@ tags:
 authors:
   - name: Cyril Pommier
     orcid: 0000-0002-9040-8733
-    affiliation: 5, 6
+    affiliation: 5
   - name: Sebastian Beier
     orcid: 0000-0002-2177-8781
     affiliation: 2
@@ -584,10 +583,10 @@ authors:
     affiliation: 4
   - name: Bruno Costa
     orcid: 0000-0002-3794-4262
-    affiliation: 6, 7 
+    affiliation: 7 
   - name: Raphaël Flores
     orcid: 0000-0002-0278-5441
-    affiliation: 5, 6
+    affiliation: 5
   - name: Helene Rimbert
     orcid: 0000-0002-2288-6864
     affiliation: 3, 10
@@ -613,10 +612,8 @@ affiliations:
    index: 3
  - name: National Agriculture and Food Research Organization(NARO), Institute of Crop Science(NICS), Tsukuba, Japan
    index: 4
- - name: Université Paris-Saclay, INRAE, URGI, Versailles, France
+ - name: Université Paris-Saclay, INRAE, BioinfOmics, URGI, 78026, Versailles, France
    index: 5
- - name: Université Paris-Saclay, INRAE, BioinfOmics, Plant Bioinformatics Facility, Versailles, France
-   index: 6
  - name: Instituto de Engenharia de Sistemas e Computadores - Investigação e desenvolvimento (INESC-ID), Rua Alves Redol nº9, 1000-29 Lisboa 
    index: 7
  - name: BioISI, Faculdade de Ciências - Universidade de Lisboa (FCUL), Campo Grande 016, 1749-016 Lisboa
@@ -641,11 +638,12 @@ affiliations:
  
 
 date: 15 November 2024
-bibliography: paper.bib
+cito-bibliography: paper.bib
 authors_short: Pommier et al. (2024) BioHackrXiv  template
 group: BioHackrXiv
 event: BioHackathon LLM Versailles 2024
-biohackathon_name: BioHackathon LLM Versailles 2024
+biohackathon_name: "BioHackathon LLM Versailles 2024"
+git_url: https://github.com/gnpis/2024-biohackathon-LLM
 ---
 
 # Background
