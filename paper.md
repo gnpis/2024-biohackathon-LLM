@@ -18,6 +18,9 @@ authors:
   - name: Pedro Barros
     orcid: 0000-0001-5626-0619
     affiliation: 1
+  - name: Confais Johann
+    orcid: 0000-0003-2945-5036
+    affiliation: 15
   - name: Hugo Rodrigues
     orcid: 0000-0001-5497-4810
     affiliation: 1
