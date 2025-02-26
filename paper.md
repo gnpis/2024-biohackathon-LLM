@@ -181,23 +181,7 @@ The objective of this work group is to integrate data from several species of in
 ## Outcomes
 
 A BioCypher instance has integrated the below data which is available as a tar.gz file on RechercheDataGouv: https://doi.org/10.57745/5UNPZQ
-    
-The data architecture looks like: 
 
-```sh
-$ tree data/
-data/
-├── gene
-│   ├── ...
-├── goa
-│   ├── ...
-├── homology
-│   ├── ...
-├── ontologies
-│   └── go.owl
-└── transcript
-    ├── ...
-```
     
 ### Gene
 
@@ -256,118 +240,7 @@ It's has been shown that transposable element when moving in the genome may carr
 The objectives of this workgroup is to investigate the scientific question of the relationship between mobile element like transposable element and regulatory/transcription factor 
 
 ## Outcomes  
-```
 
-tree import/data_neo4j/atha_input  
-import/data_neo4j/atha_input  
-├── ARACYC_PATHWAY_NODE.csv  
-├── Atha_NODE_ACCESSION.csv  
-├── Atha_NODE_BRASSICA.csv  
-├── Atha_NODE_CHIPSEQ_TFBS_url.csv  
-├── Atha_NODE_CLIQUE.csv  
-├── Atha_NODE_CNS.csv  
-├── Atha_NODE_CNS_url.csv  
-├── Atha_NODE_DUSTER.csv  
-├── Atha_NODE_DUSTERFULL.csv  
-├── Atha_NODE_DUSTERSPEC.csv  
-├── Atha_NODE_DUSTER_url.csv  
-├── Atha_NODE_FUNCTIONMRNA.csv  
-├── Atha_NODE_GENE_url.csv  
-├── Atha_NODE_PLM.csv  
-├── Atha_NODE_PLM_POSITION_url.csv  
-├── Atha_NODE_PLM_withRemap.csv  
-├── Atha_NODE_PREDICTED_TFBS_addSeq_url.csv  
-├── Atha_NODE_SAMPLE.csv  
-├── Atha_NODE_SNP_url.csv  
-├── Atha_NODE_STRESS.csv  
-├── Atha_NODE_TAIR10TE_v2.csv  
-├── Atha_NODE_TEDM.csv  
-├── Atha_NODE_TEFAMILY.csv  
-├── Atha_NODE_TFBS_PRM.csv  
-├── Atha_NODE_TFBS_REMAP.csv  
-├── Atha_NODE_TF.csv  
-├── Atha_NODE_TFFamily.csv  
-├── Atha_NODE_TRAIT.csv  
-├── Atha_RELATION_BRASSICA_CHIPSEQTFBS_PRM.csv  
-├── Atha_RELATION_BRASSICA_CNS.csv  
-├── Atha_RELATION_BRASSICA_GENE.csv  
-├── Atha_RELATION_BRASSICA_PLM.csv  
-├── Atha_RELATION_BRASSICA_TE.csv  
-├── Atha_RELATION_CHIPSEQ_PRMTFBS_PREDICTED_TFBS.csv  
-├── Atha_RELATION_ChipSeqTFBS_DUSTERFULL.csv  
-├── Atha_RELATION_ChipSeqTFBS_DUSTERSPEC.csv  
-├── Atha_RELATION_CHIPSEQ_TFBS_GENE.csv  
-├── Atha_RELATION_CHIPSEQ_TFBS_PLM.csv  
-├── Atha_RELATION_CHIPSEQ_TFBS_PREDICTED_TFBS.csv  
-├── Atha_RELATION_CHIPSEQ_TFBS_PRM_GENE.csv  
-├── Atha_RELATION_CHIPSEQ_TFBS_TE.csv  
-├── Atha_RELATION_ChipSeqTFBS_TEDM.csv  
-├── Atha_RELATION_CLIQUE_ACCESSION_cor.csv  
-├── Atha_RELATION_CNS_ChipSeqPRM.csv  
-├── Atha_RELATION_CNS_CHIPSEQ_TFBS.csv  
-├── Atha_RELATION_CNS_DUSTERFULL.csv  
-├── Atha_RELATION_CNS_DUSTERSPEC.csv  
-├── Atha_RELATION_CNS_GENE.csv  
-├── Atha_RELATION_CNS_PLM.csv  
-├── Atha_RELATION_CNS_PREDICTED_TFBS.csv  
-├── Atha_RELATION_CNS_TE.csv  
-├── Atha_RELATION_CNS_TEDM.csv  
-├── Atha_RELATION_CNS_TE_WITHOUT_MISSING_VALUES.csv  
-├── Atha_RELATION_DUSTER_CHIPSEQ_TFBS.csv  
-├── Atha_RELATION_DUSTER_CNS.csv  
-├── Atha_RELATION_DUSTER_GENES.csv  
-├── Atha_RELATION_DUSTER_PLM.csv  
-├── Atha_RELATION_DUSTERSPEC_ChipSeqPRM.csv  
-├── Atha_RELATION_DUSTER_TE.csv  
-├── Atha_RELATION_GENE_ACCESSION.csv  
-├── Atha_RELATION_Gene_ChipSeqPRM.csv  
-├── Atha_RELATION_GENE_DUSTERFULL.csv  
-├── Atha_RELATION_GENE_DUSTERSPEC.csv  
-├── Atha_RELATION_GENE_FUNCTIONMRNA.csv  
-├── Atha_RELATION_GENE_PATHWAYS.csv  
-├── Atha_RELATION_GENE_STRESS.csv  
-├── Atha_RELATION_GENE_TEDM.csv  
-├── Atha_RELATION_GENE_TF.csv  
-├── Atha_RELATION_GENE_TRAIT.csv  
-├── Atha_RELATION_PLM_ChipSeqPRM.csv  
-├── Atha_RELATION_PLM_DUSTERFULL.csv  
-├── Atha_RELATION_PLM_DUSTERSPEC.csv  
-├── Atha_RELATION_PLM_GENE.csv  
-├── Atha_RELATION_PLM_POSITION.csv  
-├── Atha_RELATION_PLM_TEDM.csv  
-├── Atha_RELATION_PREDICTED_TFBS_GENE.csv  
-├── Atha_RELATION_PREDICTED_TFBS_TF.csv  
-├── Atha_RELATION_REMAPTFBS_GENE.csv  
-├── Atha_RELATION_REMAPTFBS_TAIR10TE.csv  
-├── Atha_RELATION_REMAPTFBS_TEDM.csv  
-├── Atha_RELATION_REMAP_TF.csv  
-├── Atha_RELATIONSHIP_TF_PLM.csv  
-├── Atha_RELATION_SNP_CHIPSEQ_TFBS.csv  
-├── Atha_RELATION_SNP_GENE.csv  
-├── Atha_RELATION_SNP_PREDICTED_TFBS.csv  
-├── Atha_RELATION_SNP_TE.csv  
-├── Atha_RELATION_SNP_TEDM.csv  
-├── Atha_RELATION_TAIR10TE_ChipSeqPRM.csv  
-├── Atha_RELATION_TAIR10TE_CNS.csv  
-├── Atha_RELATION_TAIR10TE_GENE.csv  
-├── Atha_RELATION_TAIR10TE_PREDICTED_TFBS.csv  
-├── Atha_RELATION_TE_CLIQUE.csv  
-├── Atha_RELATION_TEDM_ChipSeqPRM.csv  
-├── Atha_RELATION_TEDM_DUSTERFULL.csv  
-├── Atha_RELATION_TEDM_DUSTERSPEC.csv  
-├── Atha_RELATION_TEDM_PTFBS.csv  
-├── Atha_RELATION_TEDM_TAIR10TE.csv  
-├── Atha_RELATION_TE_DUSTERFULL.csv  
-├── Atha_RELATION_TE_DUSTERSPEC.csv  
-├── Atha_RELATION_TE_GENE.csv  
-├── Atha_RELATION_TE_PLM.csv  
-├── Atha_RELATION_TE_PREDICTED_TFBS.csv  
-├── Atha_RELATION_TE_TEFAMILY.csv  
-├── Atha_RELATION_TF_CHIPSEQ_TFBS.csv  
-├── Atha_RELATION_TF_CHIPSEQ_TFBS_PRM.csv  
-├── Atha_RELATION_TF_GENE.csv  
-├── Atha_RELATION_TF_TFfamily.csv
-```
 
 ## Future Work  
 Biochatter is directly connected to an existing database, biocypher parser need to be achieved to ensure a better connectivity with biochatter and a better schema_config.yml. 
