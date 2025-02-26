@@ -94,7 +94,8 @@ date: 15 November 2024
 bibliography: paper.bib
 authors_short: Pommier et al. (2024) BioHackrXiv  template
 group: BioHackrXiv
-event: BioHackathon Europe 2024
+event: BioHackathon LLM Versailles 2024
+biohackathon_name: BioHackathon LLM Versailles 2024
 ---
 
 # Background
@@ -643,7 +644,8 @@ date: 15 November 2024
 bibliography: paper.bib
 authors_short: Pommier et al. (2024) BioHackrXiv  template
 group: BioHackrXiv
-event: BioHackathon Europe 2024
+event: BioHackathon LLM Versailles 2024
+biohackathon_name: BioHackathon LLM Versailles 2024
 ---
 
 # Background
