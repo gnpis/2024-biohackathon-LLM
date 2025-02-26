@@ -227,14 +227,14 @@ For transcript names, a prefix was constructed to schematize the different condi
 - Tae: triticum aestivum
 - Rn: Renan
 - G/L/R/S: **g**rain/**l**eaf/**r**oot/**s**tem
-- 100/250/500/700/Z13/Z32/Z61: number of degree-days or Zadok stage[^1]
+- 100/250/500/700/Z13/Z32/Z61: number of degree-days or Zadok stage[1]
 - C/T: control/stress **T**emperature
 
 The files __\*abundance.tsv__ contain the gene expression level for the 14 conditions. FPKM and TPM are added at the gene level (sum of values for the different gene isoforms).
     
 The __\*refmap__ files contain mapping between Renan reference genome, the main isoform and the list of transcripts foubd in the experiment, the first one being used for mapping with the abundance files.
     
-[^1]: Konzak, J. Z. T. C. C. (1974). A decimal code for the growth stages of cereals. Weed Res, 14, 415-421.
+[1]: Konzak, J. Z. T. C. C. (1974). A decimal code for the growth stages of cereals. Weed Res, 14, 415-421.
     
 ## Future Work
     
