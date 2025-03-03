@@ -11,78 +11,82 @@ tags:
 authors:
   - name: Cyril Pommier
     orcid: 0000-0002-9040-8733
-    affiliation: 5
+    affiliation: 1
   - name: Sebastian Beier
     orcid: 0000-0002-2177-8781
     affiliation: 2
-  - name: Pedro Barros
+  - name: Pedro M Barros
     orcid: 0000-0001-5626-0619
-    affiliation: 1
-  - name: Confais Johann
+    affiliation: 3
+  - name: Johann Confais
     orcid: 0000-0003-2945-5036
-    affiliation: 15
+    affiliation: 1
+  - name: Nicolas Francillonne
+    orcid: 0000-0002-0665-4350
+    affiliation: 1
   - name: Hugo Rodrigues
     orcid: 0000-0001-5497-4810
-    affiliation: 1
+    affiliation: 3
   - name: Hiromi Kajiya-Kanegae
     orcid: 0000-0002-5719-7559
-    affiliation: 4, 15
+    affiliation: 4, 5
   - name: Ryokei Tanaka
     orcid: 0000-0002-3479-377X
     affiliation: 4
   - name: Bruno Costa
     orcid: 0000-0002-3794-4262
-    affiliation: 7 
+    affiliation:  6, 7
   - name: Raphaël Flores
     orcid: 0000-0002-0278-5441
-    affiliation: 5
+    affiliation: 1
   - name: Helene Rimbert
     orcid: 0000-0002-2288-6864
-    affiliation: 3, 10
+    affiliation: 8, 9
   - name: Pierre Larmande
     orcid: 0000-0002-2923-9790
-    affiliation: 8, 9
+    affiliation: 10, 11
   - name: Carissa Bleker
     orcid: 0000-0003-1617-7145
-    affiliation: 13
+    affiliation: 12
   - name: Maxime Multari
     orcid: 0009-0001-4704-3580
-    affiliation: 14
+    affiliation: 13
   - name: Sebastian Lobentanzer
     orcid: 0000-0003-3399-6695
-    affiliation: 11, 12
-    
+    affiliation: 14, 15
+
+
 affiliations:
- - name: Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa (ITQB NOVA), Av. da República, Oeiras 2780-157, Portugal
-   index: 1
- - name: Institute of Bio- and Geosciences (IBG-4 Bioinformatics), Bioeconomy Science Center (BioSC), CEPLAS, Forschungszentrum Jülich GmbH, 52425 Jülich, Germany
-   index: 2
- - name: National Research Institute for Agriculture, Food and Environment (INRAE), Genetics, Diversity and Ecophysiology of Cereals (GDEC), Clermont-Ferrand, Auvergne, France
-   index: 3
- - name: National Agriculture and Food Research Organization(NARO), Institute of Crop Science(NICS), Tsukuba, Japan
-   index: 4
- - name: Université Paris-Saclay, INRAE, BioinfOmics, URGI, 78026, Versailles, France
-   index: 5
- - name: Instituto de Engenharia de Sistemas e Computadores - Investigação e desenvolvimento (INESC-ID), Rua Alves Redol nº9, 1000-29 Lisboa 
-   index: 7
- - name: BioISI, Faculdade de Ciências - Universidade de Lisboa (FCUL), Campo Grande 016, 1749-016 Lisboa
-   index: 
- - name: University of Montpellier, IRD, CIRAD, DIADE, Montpellier, France
-   index: 8
- - name: South Green Bioinformatics Platform, IRD, CIRAD, INRAE, Bioversity, Montpellier, France
-   index: 9 
- - name: AuBi - Plateforme Auvergne Bioinformatique (Université Clermont Auvergne, Bât. Turing, Mésocentre Clermont Auvergne, 7, avenue Blaise Pascal, TSA 60026, 63178 Aubière cedex - France
-   index: 10
- - name: Heidelberg University, Faculty of Medicine and Heidelberg University Hospital, Institute for Computational Biomedicine, Heidelberg, Germany
-   index: 11
- - name: Open Targets, European Bioinformatics Institute (EMBL-EBI), Hinxton, Cambridge, United Kingdom
-   index: 12
- - name: National Institute of Biology, Večna pot 121, 1000 Ljubljana, Slovenia
-   index: 13
- - name: INRAE, Université Côte d’Azur, CNRS, Institut Sophia Agrobiotech, Sophia-Antipolis, France
-   index: 14
- - name: National Agriculture and Food Research Organization(NARO), Research Center for Agricultural Information Technology (RCAIT), Tsukuba, Japan
-   index: 15
+  - name: Université Paris-Saclay, INRAE, BioinfOmics, URGI, 78026, Versailles, France
+    index: 1
+  - name: Institute of Bio- and Geosciences (IBG-4 Bioinformatics), Bioeconomy Science Center (BioSC), CEPLAS, Forschungszentrum Jülich GmbH, 52425 Jülich, Germany
+    index: 2
+  - name: Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa (ITQB NOVA), Av. da República, Oeiras 2780-157, Portugal
+    index: 3
+  - name: National Agriculture and Food Research Organization(NARO), Institute of Crop Science(NICS), Tsukuba, Japan
+    index: 4
+  - name: National Agriculture and Food Research Organization(NARO), Research Center for Agricultural Information Technology (RCAIT), Tsukuba, Japan
+    index: 5
+  - name: Instituto de Engenharia de Sistemas e Computadores - Investigação e desenvolvimento (INESC-ID), Rua Alves Redol, 1000-29 Lisboa
+    index: 6
+  - name: BioISI, Faculdade de Ciências - Universidade de Lisboa (FCUL), Campo Grande, 1749-016 Lisboa
+    index: 7
+  - name: National Research Institute for Agriculture, Food and Environment (INRAE), Genetics, Diversity and Ecophysiology of Cereals (GDEC), Clermont-Ferrand, Auvergne, France
+    index: 8
+  - name: AuBi - Plateforme Auvergne Bioinformatique (Université Clermont Auvergne, Bât. Turing, Mésocentre Clermont Auvergne, 7, avenue Blaise Pascal, TSA 60026, 63178 Aubière cedex - France
+    index: 9
+  - name: University of Montpellier, IRD, CIRAD, DIADE, Montpellier, France
+    index: 10
+  - name: South Green Bioinformatics Platform, IRD, CIRAD, INRAE, Bioversity, Montpellier, France
+    index: 11
+  - name: National Institute of Biology, Večna pot 121, 1000 Ljubljana, Slovenia
+    index: 12
+  - name: INRAE, Université Côte d’Azur, CNRS, Institut Sophia Agrobiotech, Sophia-Antipolis, France
+    index: 13
+  - name: Heidelberg University, Faculty of Medicine and Heidelberg University Hospital, Institute for Computational Biomedicine, Heidelberg, Germany
+    index: 14
+  - name: Open Targets, European Bioinformatics Institute (EMBL-EBI), Hinxton, Cambridge, United Kingdom
+    index: 15
 
 
 date: 15 November 2024
@@ -210,18 +214,18 @@ For transcript names, a prefix was constructed to schematize the different condi
 - Tae: triticum aestivum
 - Rn: Renan
 - G/L/R/S: **g**rain/**l**eaf/**r**oot/**s**tem
-- 100/250/500/700/Z13/Z32/Z61: number of degree-days or Zadok stage[^1]
+- 100/250/500/700/Z13/Z32/Z61: number of degree-days or Zadok stage[@citation:Zadok1974]
 - C/T: control/stress **T**emperature
 
 The files __\*abundance.tsv__ contain the gene expression level for the 14 conditions. FPKM and TPM are added at the gene level (sum of values for the different gene isoforms).
     
 The __\*refmap__ files contain mapping between Renan reference genome, the main isoform and the list of transcripts foubd in the experiment, the first one being used for mapping with the abundance files.
     
-[^1]: Konzak, J. Z. T. C. C. (1974). A decimal code for the growth stages of cereals. Weed Res, 14, 415-421.
+
     
 ## Future Work
     
-A clean of script needs to be done in order to have a seamless integration process.
+A script cleaning needs to be done in order to have a seamless integration process.
     
 BioChatter needs to be used more in depth on this dataset to expose the integrated data to end users and getting feedback on the LLM benefits.
 
@@ -233,16 +237,23 @@ BioChatter needs to be used more in depth on this dataset to expose the integrat
     
 # Mobile element knowledge graph use case 
     
-It's has been shown that transposable element when moving in the genome may carry regulatory element like transcription factor binding site across the genome impacting gene transcription. Finding good candidates is a difficult endeavor and this knowledge graph aimed to facilitate the identification of these candidate with a maximum of clues
+Transposable elements (TEs) are mobile DNA sequences that propagate within genomes, representing a significant source of genetic variation and molecular innovation. Cis-regulatory elements (CREs) are genomic regions involved in the regulation of gene expression. It has been demonstrated that transposable elements, during their movement through the genome, may carry CRE across the genome, thereby impacting gene transcription. Indeed, it has been hypothesised that ancient transposable elements may have been co-opted by flowering gene regulation networks [@citation:Baud2022]. To this end, a knowledge graph was constructed, integrating data from Quesneville et al. [@citation:Baud2022]. The identification of suitable candidates is a challenging endeavour; this knowledge graph was developed to facilitate the identification of such candidates with a maximum of clues. The objective of this knowledge graph is to investigate the scientific question of the relationship between mobile elements, such as transposable elements, CREs and gene regulation networks.
+
+
 
 ## Objectives and scientific questions  
-The objectives of this workgroup is to investigate the scientific question of the relationship between mobile element like transposable element and regulatory/transcription factor 
+The objective of this endeavour is to facilitate the process of querying our knowledge graph for users who are not familiar with the Cypher language. To this end, a Biochatter instance has been integrated with our knowledge graph, with the establishment of an in-house ontology and schema configuration file. 
+
+## Outcomes  
+We managed to connect BioChatter to our database successfully. Since we were aiming to use an already existing database, we tried to do this directly without using biocypher. To do that, we needed to harmonize and structure our data model, using a custom ontology to describe our nodes and their links. Based on this ontology, we set up our schema_config. 
+
+We first tried simple queries between two nodes in Biochatter's prompt. However, these queries were not consistently rendered correctly by the tool. This was due to the orientation of the relationship between our nodes, which was not clear to Biochatter. To resolve this issue, we added « source » and « target » to the schema_config file.
+
+Another issue we encountered was related to the value of properties. Contrary to the nodes, relationships and properties, we do not have a controled vocabulary (like ontologie) for our properties values. Exact matching of the property value is necessary to request the knowledge graph. For example, "Flowering", "flowering","floraison" have the same meaning but may differ by language, capital letter etc. Our "trait" property has the value "flowering" but cannot be found if the query is not written in the exact same way. Without prior knowledge of property values, querying them seems hasardous. Should properties values also be limited to a controlled vocabulary ? 
 
 
 ## Future Work  
-Biochatter is directly connected to an existing database, biocypher parser need to be achieved to ensure a better connectivity with biochatter and a better schema_config.yml. 
-
-## GitHub repository
+Future work may be the development of biocypher parser to manage the data of our database to ensure a better connectivity with biochatter and a better schema_config.yml. 
     
 
     
@@ -416,9 +427,5 @@ The authors would like to thank ELIXIR for their funding support through the Sta
 
 # References
 
-Leave this section blank, create a paper.bib with all your references.
-
-
-For citations of references, we prefer the use of parenthesis, last name and year. If you use a citation manager, Elsevier – Harvard or American Psychological Association (APA) will work. If you are referencing web pages, software or so, please do so in the same way. Whenever possible, add authors and year. We have included a couple of citations along this document for you to get the idea. Please remember to always add DOI whenever available, if not possible, please provide alternative URLs. You will end up with an alphabetical order list by authors’ last name.
 
 
