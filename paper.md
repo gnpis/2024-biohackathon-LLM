@@ -285,11 +285,11 @@ Three challenges had to be tackled in developing PSS-BioCyper:
 
 3. PSS has a complex __schema__, based in reactions connection interacting entities (Fig. 1), instead of direct pairwise interactions. While pairwise interactions are more intuitive in a knowledge graph formalism, the richly curated detail of PSS as a model, its cross-species compatibility, and the need to be able to exchange the information in PSS with other domain standards (such as SBML, SBGN) means the schema of PSS is somewhat convoluted for users to interact with. 
  
-  <center><img src="https://raw.githubusercontent.com/NIB-SI/skm-biocypher/refs/heads/main/docs/basic-reaction-labelled.png" alt="PSS schema of a catalysis reaction" width="350"><br>Figure 1: PSS schema of a catalysis reaction. </center><br> 
+![Figure 1: PSS schema of a catalysis reaction.](https://raw.githubusercontent.com/NIB-SI/skm-biocypher/refs/heads/main/docs/basic-reaction-labelled.png) 
   
   While the ontology would allow PSS-BioCypher to maintain the reaction based formulation, for the intuition of both the user and ability for the LLM to interpret the structure, the schema of PSS was projected from reactions to pairwise interactions between the reaction participants. As an example, the reaction in Fig. 1 was projected as in Fig. 2.  
    
-  <center><img src="https://raw.githubusercontent.com/NIB-SI/skm-biocypher/refs/heads/main/docs/reaction-to-biocypher.png" alt="PSS-BioCypher schema of a catalysis reaction" width="300"><br>Figure 2: PSS-BioCypher schema of a catalysis reaction.</center><br>
+![Figure 2: PSS-BioCypher schema of a catalysis reaction.](https://raw.githubusercontent.com/NIB-SI/skm-biocypher/refs/heads/main/docs/reaction-to-biocypher.png)
   
   Including the depicted catalysis, PSS has nine defined reaction types, each of which was projected to the new schema. The `schema_config.yaml` file (in the GitHub repository) contains information on how the projection was done. 
 
