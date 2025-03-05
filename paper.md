@@ -528,7 +528,7 @@ There will be further implementation by the different groups in some of their to
 
 
 # Acknowledgements
-The authors would like to thank ELIXIR for their funding support through the Staff Exchange Scheme. We would like to thanks INRAE Versailles for hosting the workshop and Christina Gacic for the organization support. The authors also express their gratitude towards de.NBI (German Network for Bioinformatics Infrastructure) for funding the travel expenses of the German participants. Additional funding was provided by Fundação para a Ciência e a Tecnologia (Portugal) through the R&D Unit "GREEN-IT - Bioresources for Sustainability" (DOI: 10.54499/UIDB/04551/2020 and DOI: 10.54499/UIDP/04551/2020) and LS4FUTURE Associated Laboratory (DOI: 10.54499/LA/P/0087/2020). This project was partially funded by NARO-INRAE Joint Linkage Call. 
+The authors would like to thank ELIXIR for their funding support through the Staff Exchange Scheme. We would like to thanks INRAE Versailles for hosting the workshop and Christina Gacic for the organization support. The authors also express their gratitude towards de.NBI (German Network for Bioinformatics Infrastructure) for funding the travel expenses of the German participants. Additional funding was provided by Fundação para a Ciência e a Tecnologia (Portugal) through the R&D Unit "GREEN-IT - Bioresources for Sustainability" (DOI: 10.54499/UIDB/04551/2020 and DOI: 10.54499/UIDP/04551/2020) and LS4FUTURE Associated Laboratory (DOI: 10.54499/LA/P/0087/2020). We are also grateful to the 2024 NARO-INRAE Joint Linkage Call for the travel funding opportunity. 
 
 # References
 
