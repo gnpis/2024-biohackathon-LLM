@@ -39,6 +39,9 @@ authors:
   - name: Raphaël Flores
     orcid: 0000-0002-0278-5441
     affiliation: 1
+  - name: Célia Michotey
+    orcid: 0000-0003-1877-1703
+    affiliation: 1
   - name: Helene Rimbert
     orcid: 0000-0002-2288-6864
     affiliation: 8, 9
