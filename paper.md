@@ -91,7 +91,7 @@ affiliations:
 
 date: 15 November 2024
 cito-bibliography: paper.bib
-authors_short: Pommier et al. (2024) 
+authors_short: Pommier et al. 
 group: BioHackrXiv
 event: BioHackathon LLM Versailles 2024
 biohackathon_name: "BioHackathon LLM Versailles 2024"
