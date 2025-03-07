@@ -118,6 +118,7 @@ Biologists often require tools that enable them to aggregate information on spec
 ## Scientific questions and Outcomes
 
 Considering the available datasets, biologist and breeders users would like to get data to explore the following questions:
+
 * What are the trees older than 12 years, in CSV format, with location and related experiment description.
 * Are there any trials that measured metabolome-related traits?
 * What are the reference information for the accession “EM00002”, plus its cross references including the experiments and datasets (phenotyping, genome sequence, ...).
