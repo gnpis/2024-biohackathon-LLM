@@ -118,14 +118,14 @@ Biologists often require tools that enable them to aggregate information on spec
 ## Scientific questions and Outcomes
 
 Considering the available datasets, biologist and breeders users would like to get data to explore the following questions:
-- What are the trees older than 12 years, in CSV format, with location and related experiment description.
-- Are there any trials that measured metabolome-related traits?
-- What are the reference information for the accession “EM00002”, plus its cross references including the experiments and datasets (phenotyping, genome sequence, ...).
-- Provide information on the wheat accession most frequently cultivated in the northernmost wheat trials in a ready to use Jupyter notebook.
-- Which variety showed the highest shoot dry weight in Clermont-Ferrand?
-- What datasets allows to study relation between flowering phenology and yield or disease X.
-- Which grape varieties can reach grape maturity in September?
-- Which european rice variety has high protein content in their grains?
+* What are the trees older than 12 years, in CSV format, with location and related experiment description.
+* Are there any trials that measured metabolome-related traits?
+* What are the reference information for the accession “EM00002”, plus its cross references including the experiments and datasets (phenotyping, genome sequence, ...).
+* Provide information on the wheat accession most frequently cultivated in the northernmost wheat trials in a ready to use Jupyter notebook.
+* Which variety showed the highest shoot dry weight in Clermont-Ferrand?
+* What datasets allows to study relation between flowering phenology and yield or disease X.
+* Which grape varieties can reach grape maturity in September?
+* Which european rice variety has high protein content in their grains?
 
 The work was conducted with BrAPI and MIAPPE datasets.
 For BrAPI based development, we used POPYOMICS (https://urgi.versailles.inrae.fr/faidare/brapi/v1/trials/dXJuOklOUkFFLVVSR0kvdHJpYWwvMjQ%3D) and Wheat INRAE Cereal Network (https://urgi.versailles.inrae.fr/faidare/brapi/v1/trials/dXJuOklOUkFFLVVSR0kvdHJpYWwvNw%3D%3D). We developed two approaches
